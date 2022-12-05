@@ -1,0 +1,242 @@
+"id_pegawai";"nama_lengkap";"tgl_lahir";"umur";"jenis_kelamin";"kode_kelurahan";"nama_kelurahan";"kode_kecamatan";"nama_kecamatan";"kode_jabatan";"nama_jabatan";"nama_ibu";"tgl_lahir_ibu";"umur_ibu";"total_remunerasi"
+PGW001;Aruna Ayuningtias;1997-12-29;24;Wanita;"15.71.02.1002";Pasir Putih;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Ayudia Aruna Ayuningtias;1967-03-30;55;2.5015E7
+PGW002;Kaisar Rejana;1997-12-16;24;Pria;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Ardelle Kaisar Rejana;1959-12-04;62;1.681E7
+PGW002;Kaisar Rejana;1997-12-16;24;Pria;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB04;Staff;Ibu Ardelle Kaisar Rejana;1959-12-04;62;1.681E7
+PGW003;Cempaka Ayuningtias;1997-11-24;24;Wanita;"15.71.06.1002";Tanjung Raden;"15.71.06";Danau Teluk;JB03;Manager;Ibu Basagita Cempaka Ayuningtias;1958-03-17;64;4605000.0
+PGW004;Carissa Andini;1997-11-17;24;Wanita;"15.71.05.1005";Tahtul Yaman;"15.71.05";Pelayangan;JB03;Manager;Ibu Candramaya Carissa Andini;1953-10-25;68;2830000.0
+PGW005;Carissa Ashalina;1997-10-12;24;Wanita;"15.71.05.1005";Tahtul Yaman;"15.71.05";Pelayangan;JB02;Senior Staff;Ibu Bintang Carissa Ashalina;1965-03-27;57;1.066E7
+PGW006;Barsha Betari;1997-07-17;25;Wanita;"15.71.05.1003";Jelmu;"15.71.05";Pelayangan;JB01;Staff;Ibu Ashalina Barsha Betari;1961-01-01;61;7210000.0
+PGW007;Anggun Arabella;1997-07-13;25;Wanita;"15.71.01.1004";Telanaipura;"15.71.01";Telanaipura;JB01;Staff;Ibu Andini Anggun Arabella;1959-08-22;63;1655000.0
+PGW008;Bulan Athifa;1997-07-04;25;Wanita;"15.71.05.1002";Mudung Laut;"15.71.05";Pelayangan;JB04;General Manager;Ibu Bintang Bulan Athifa;1958-01-13;64;1.8115E7
+PGW008;Bulan Athifa;1997-07-04;25;Wanita;"15.71.05.1002";Mudung Laut;"15.71.05";Pelayangan;JB04;Staff;Ibu Bintang Bulan Athifa;1958-01-13;64;1.8115E7
+PGW009;Perkasa Bakti;1997-07-03;25;Pria;"15.71.03.1007";Tanjung Sari;"15.71.03";Jambi Timur;JB03;Manager;Ibu Antakawulan Perkasa Bakti;1959-12-07;62;5545000.0
+PGW010;Candramaya Anggun;1997-06-19;25;Wanita;"15.71.06.1003";Olak Kemang;"15.71.06";Danau Teluk;JB03;Manager;Ibu Ayudia Candramaya Anggun;1954-05-26;68;1.696E7
+PGW011;Adriani Cassandra;1997-05-20;25;Wanita;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB03;Manager;Ibu Basagita Adriani Cassandra;1962-09-18;60;2.4435E7
+PGW012;Aditya Hadyan;1997-05-08;25;Pria;"15.71.01.1002";Buluran Kenali;"15.71.01";Telanaipura;JB03;Manager;Ibu Calya Aditya Hadyan;1952-02-05;70;4105000.0
+PGW013;Dimas Budi;1997-03-04;25;Pria;"15.71.01.1010";Penyengat Rendah;"15.71.01";Telanaipura;JB02;Senior Staff;Ibu Arum Dimas Budi;1952-09-26;69;1.8315E7
+PGW014;Tulus Aditya;1997-02-24;25;Pria;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB02;Senior Staff;Ibu Cempaka Tulus Aditya;1958-09-18;64;6555000.0
+PGW015;Belvina Andini;1997-02-23;25;Wanita;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB04;General Manager;Ibu Aliesha Belvina Andini;1967-09-18;55;1.161E7
+PGW015;Belvina Andini;1997-02-23;25;Wanita;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB04;Staff;Ibu Aliesha Belvina Andini;1967-09-18;55;1.161E7
+PGW016;Celia Basagita;1997-02-07;25;Wanita;"15.71.06.1004";Tanjung Pasir;"15.71.06";Danau Teluk;JB04;General Manager;Ibu Ayudisha Celia Basagita;1952-11-01;69;4955000.0
+PGW016;Celia Basagita;1997-02-07;25;Wanita;"15.71.06.1004";Tanjung Pasir;"15.71.06";Danau Teluk;JB04;Staff;Ibu Ayudisha Celia Basagita;1952-11-01;69;4955000.0
+PGW017;Budi Hadyan;1997-02-03;25;Pria;"15.71.01.1003";Teluk Kenali;"15.71.01";Telanaipura;JB04;General Manager;Ibu Antakawulan Budi Hadyan;1958-06-06;64;1905000.0
+PGW017;Budi Hadyan;1997-02-03;25;Pria;"15.71.01.1003";Teluk Kenali;"15.71.01";Telanaipura;JB04;Staff;Ibu Antakawulan Budi Hadyan;1958-06-06;64;1905000.0
+PGW018;Danudara Ihsan;1997-01-20;25;Pria;"15.71.02.1002";Pasir Putih;"15.71.02";Jambi Selatan;JB01;Staff;Ibu Cahaya Danudara Ihsan;1967-09-29;54;2.8615E7
+PGW019;Ayudisha Belvina;1997-01-10;25;Wanita;"15.71.02.1003";Tambak Sari;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Belvina Ayudisha Belvina;1956-12-22;65;6805000.0
+PGW020;Anggun Andini;1996-12-19;25;Wanita;"15.71.01.1004";Telanaipura;"15.71.01";Telanaipura;JB03;Manager;Ibu Abila Anggun Andini;1965-02-21;57;5310000.0
+PGW021;Athifa Araminta;1996-11-27;25;Wanita;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB01;Staff;Ibu Araminta Athifa Araminta;1958-01-12;64;3110000.0
+PGW022;Budi Ihsan;1996-11-20;25;Pria;"15.71.01.1003";Teluk Kenali;"15.71.01";Telanaipura;JB02;Senior Staff;Ibu Candramaya Budi Ihsan;1952-05-07;70;9605000.0
+PGW023;Arabella Asri;1996-11-01;25;Wanita;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Ayudia Arabella Asri;1952-02-05;70;9110000.0
+PGW023;Arabella Asri;1996-11-01;25;Wanita;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB04;Staff;Ibu Ayudia Arabella Asri;1952-02-05;70;9110000.0
+PGW024;Widada Perkasa;1996-09-14;26;Pria;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB01;Staff;Ibu Asri Widada Perkasa;1967-01-29;55;1.6115E7
+PGW025;Prayoga Widada;1996-09-02;26;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Belvina Prayoga Widada;1967-02-12;55;1.105E7
+PGW025;Prayoga Widada;1996-09-02;26;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB04;Staff;Ibu Belvina Prayoga Widada;1967-02-12;55;1.105E7
+PGW026;Alsava Arum;1996-07-28;26;Wanita;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Abila Alsava Arum;1953-10-28;68;7610000.0
+PGW026;Alsava Arum;1996-07-28;26;Wanita;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB04;Staff;Ibu Abila Alsava Arum;1953-10-28;68;7610000.0
+PGW027;Satya Rejana;1996-05-25;26;Pria;"15.71.04.1001";Beringin;"15.71.04";Pasar Jambi;JB01;Staff;Ibu Asri Satya Rejana;1960-06-15;62;8605000.0
+PGW028;Prayoga David;1996-03-22;26;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Alsava Prayoga David;1956-04-17;66;6155000.0
+PGW029;Agung Satya;1996-03-12;26;Pria;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB03;Manager;Ibu Athifa Agung Satya;1964-04-07;58;8655000.0
+PGW030;Mulyono Perkasa;1996-01-24;26;Pria;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB01;Staff;Ibu Abila Mulyono Perkasa;1956-01-25;66;1.6815E7
+PGW031;Adriani Bulan;1995-11-01;26;Wanita;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB02;Senior Staff;Ibu Betari Adriani Bulan;1963-11-17;58;1.2065E7
+PGW032;Cempaka Candramaya;1995-10-22;26;Wanita;"15.71.06.1002";Tanjung Raden;"15.71.06";Danau Teluk;JB01;Staff;Ibu Bulan Cempaka Candramaya;1958-06-21;64;4255000.0
+PGW033;Cahaya Asri;1995-09-21;26;Wanita;"15.71.06.1001";Pasir Panjang;"15.71.06";Danau Teluk;JB03;Manager;Ibu Belvina Cahaya Asri;1967-12-22;54;8955000.0
+PGW034;Tulus Agung;1995-08-08;27;Pria;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB01;Staff;Ibu Aliesha Tulus Agung;1954-12-14;67;6555000.0
+PGW035;Mulyono Widada;1995-07-12;27;Pria;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Ardelle Mulyono Widada;1959-12-16;62;1.455E7
+PGW036;Athifa Basagita;1995-06-27;27;Wanita;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Candramaya Athifa Basagita;1952-11-17;69;1.8315E7
+PGW037;Pangestu Kaisar;1995-05-12;27;Pria;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB03;Manager;Ibu Araminta Pangestu Kaisar;1952-06-15;70;1.161E7
+PGW038;Bintang Alsava;1995-04-23;27;Wanita;"15.71.05.1001";Arab Melayu;"15.71.05";Pelayangan;JB02;Senior Staff;Ibu Arabella Bintang Alsava;1958-02-24;64;9565000.0
+PGW039;David Kaisar;1995-03-11;27;Pria;"15.71.01.1011";Pematang Sulur;"15.71.01";Telanaipura;JB01;Staff;Ibu Ayudisha David Kaisar;1963-07-25;59;1.6965E7
+PGW040;Aruna Aliesha;1995-02-21;27;Wanita;"15.71.02.1002";Pasir Putih;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Celia Aruna Aliesha;1958-10-20;63;1.6165E7
+PGW041;Athifa Antakawulan;1995-02-04;27;Wanita;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB01;Staff;Ibu Celia Athifa Antakawulan;1965-09-01;57;2560000.0
+PGW042;Cassandra Athifa;1994-12-20;27;Wanita;"15.71.05.1006";Tanjung Johor;"15.71.05";Pelayangan;JB02;Senior Staff;Ibu Calya Cassandra Athifa;1958-07-16;64;1.916E7
+PGW043;Prima Budi;1994-11-20;27;Pria;"15.71.03.1005";Sulanjana;"15.71.03";Jambi Timur;JB03;Manager;Ibu Cempaka Prima Budi;1957-04-07;65;3.507E7
+PGW044;Satya Budi;1994-11-12;27;Pria;"15.71.04.1001";Beringin;"15.71.04";Pasar Jambi;JB01;Staff;Ibu Arabella Satya Budi;1962-06-04;60;2605000.0
+PGW045;Belvina Basagita;1994-09-16;28;Wanita;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB04;General Manager;Ibu Abila Belvina Basagita;1967-04-14;55;1.181E7
+PGW045;Belvina Basagita;1994-09-16;28;Wanita;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB04;Staff;Ibu Abila Belvina Basagita;1967-04-14;55;1.181E7
+PGW046;Kaisar Bakti;1994-09-15;28;Pria;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Candramaya Kaisar Bakti;1955-07-01;67;3590000.0
+PGW046;Kaisar Bakti;1994-09-15;28;Pria;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB04;Staff;Ibu Candramaya Kaisar Bakti;1955-07-01;67;3590000.0
+PGW047;Anindita Candramaya;1994-09-11;28;Wanita;"15.71.01.1010";Penyengat Rendah;"15.71.01";Telanaipura;JB03;Manager;Ibu Alsava Anindita Candramaya;1952-05-23;70;1.211E7
+PGW048;Ayudia Cempaka;1994-07-15;28;Wanita;"15.71.03.1005";Sulanjana;"15.71.03";Jambi Timur;JB01;Staff;Ibu Bintang Ayudia Cempaka;1954-12-12;67;5705000.0
+PGW049;Mulyono Ihsan;1994-07-01;28;Pria;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB01;Staff;Ibu Cahaya Mulyono Ihsan;1962-10-22;59;3.662E7
+PGW050;Bulan Binar;1994-05-20;28;Wanita;"15.71.05.1002";Mudung Laut;"15.71.05";Pelayangan;JB01;Staff;Ibu Anindita Bulan Binar;1966-04-23;56;3455000.0
+PGW051;Ashalina Anjani;1994-05-05;28;Wanita;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB03;Manager;Ibu Aruna Ashalina Anjani;1958-12-25;63;7595000.0
+PGW052;Tulus Widada;1994-04-11;28;Pria;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB03;Manager;Ibu Araminta Tulus Widada;1957-12-05;64;6610000.0
+PGW053;Dimas Hadyan;1994-02-16;28;Pria;"15.71.01.1010";Penyengat Rendah;"15.71.01";Telanaipura;JB04;General Manager;Ibu Belvina Dimas Hadyan;1955-06-22;67;9565000.0
+PGW053;Dimas Hadyan;1994-02-16;28;Pria;"15.71.01.1010";Penyengat Rendah;"15.71.01";Telanaipura;JB04;Staff;Ibu Belvina Dimas Hadyan;1955-06-22;67;9565000.0
+PGW054;David Prayoga;1993-12-26;28;Pria;"15.71.01.1011";Pematang Sulur;"15.71.01";Telanaipura;JB01;Staff;Ibu Ayuningtias David Prayoga;1963-05-13;59;5585000.0
+PGW055;Araminta Ardelle;1993-12-23;28;Wanita;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB04;General Manager;Ibu Binar Araminta Ardelle;1964-07-21;58;4065000.0
+PGW055;Araminta Ardelle;1993-12-23;28;Wanita;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB04;Staff;Ibu Binar Araminta Ardelle;1964-07-21;58;4065000.0
+PGW056;Bintang Barsha;1993-11-07;28;Wanita;"15.71.05.1001";Arab Melayu;"15.71.05";Pelayangan;JB02;Senior Staff;Ibu Cassandra Bintang Barsha;1956-07-19;66;6025000.0
+PGW057;Hadyan Kaisar;1993-11-04;28;Pria;"15.71.03.1002";Kasang Jaya;"15.71.03";Jambi Timur;JB01;Staff;Ibu Aruna Hadyan Kaisar;1953-11-04;68;1.653E7
+PGW058;Barsha Basagita;1993-11-03;28;Wanita;"15.71.05.1003";Jelmu;"15.71.05";Pelayangan;JB03;Manager;Ibu Ayudisha Barsha Basagita;1953-04-03;69;2805000.0
+PGW059;Aliesha Cahaya;1993-11-03;28;Wanita;"15.71.03.1008";Rajawali;"15.71.03";Jambi Timur;JB03;Manager;Ibu Ayuningtias Aliesha Cahaya;1953-02-08;69;6705000.0
+PGW060;Jamal Tulus;1993-11-02;28;Pria;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB01;Staff;Ibu Arabella Jamal Tulus;1961-12-21;60;3110000.0
+PGW061;Antakawulan Binar;1993-10-08;28;Wanita;"15.71.02.1005";Wijaya Pura;"15.71.02";Jambi Selatan;JB04;General Manager;Ibu Betari Antakawulan Binar;1963-10-17;58;9565000.0
+PGW061;Antakawulan Binar;1993-10-08;28;Wanita;"15.71.02.1005";Wijaya Pura;"15.71.02";Jambi Selatan;JB04;Staff;Ibu Betari Antakawulan Binar;1963-10-17;58;9565000.0
+PGW062;Carissa Bulan;1993-09-27;28;Wanita;"15.71.05.1005";Tahtul Yaman;"15.71.05";Pelayangan;JB03;Manager;Ibu Bintang Carissa Bulan;1963-07-15;59;5215000.0
+PGW063;Eka Tulus;1993-08-28;29;Pria;"15.71.02.1003";Tambak Sari;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Arabella Eka Tulus;1966-10-21;55;1.107E7
+PGW064;Cahaya Bintang;1993-08-09;29;Wanita;"15.71.06.1001";Pasir Panjang;"15.71.06";Danau Teluk;JB01;Staff;Ibu Anindita Cahaya Bintang;1956-09-02;66;1.0615E7
+PGW065;Aditya Ihsan;1993-07-04;29;Pria;"15.71.01.1002";Buluran Kenali;"15.71.01";Telanaipura;JB02;Senior Staff;Ibu Ayuningtias Aditya Ihsan;1964-02-07;58;9205000.0
+PGW066;Prayoga Mulyono;1993-07-04;29;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Ashalina Prayoga Mulyono;1964-05-13;58;2055000.0
+PGW066;Prayoga Mulyono;1993-07-04;29;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB04;Staff;Ibu Ashalina Prayoga Mulyono;1964-05-13;58;2055000.0
+PGW067;Ayudia Anggun;1993-07-03;29;Wanita;"15.71.03.1005";Sulanjana;"15.71.03";Jambi Timur;JB01;Staff;Ibu Anjani Ayudia Anggun;1965-10-14;56;3710000.0
+PGW068;Agung Bakti;1993-06-17;29;Pria;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB04;General Manager;Ibu Cahaya Agung Bakti;1954-01-05;68;6810000.0
+PGW068;Agung Bakti;1993-06-17;29;Pria;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB04;Staff;Ibu Cahaya Agung Bakti;1954-01-05;68;6810000.0
+PGW069;Rangga Budi;1993-05-03;29;Pria;"15.71.03.1008";Rajawali;"15.71.03";Jambi Timur;JB03;Manager;Ibu Adriani Rangga Budi;1953-12-07;68;1.066E7
+PGW070;Adriani Arum;1993-05-02;29;Wanita;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB01;Staff;Ibu Asri Adriani Arum;1965-03-05;57;2525000.0
+PGW071;Jamal Dimas;1993-04-26;29;Pria;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Ayudisha Jamal Dimas;1955-09-19;67;1.6165E7
+PGW072;Bintang Arabella;1993-03-07;29;Wanita;"15.71.05.1001";Arab Melayu;"15.71.05";Pelayangan;JB04;General Manager;Ibu Belvina Bintang Arabella;1953-11-17;68;7595000.0
+PGW072;Bintang Arabella;1993-03-07;29;Wanita;"15.71.05.1001";Arab Melayu;"15.71.05";Pelayangan;JB04;Staff;Ibu Belvina Bintang Arabella;1953-11-17;68;7595000.0
+PGW073;Candramaya Bulan;1993-02-10;29;Wanita;"15.71.06.1003";Olak Kemang;"15.71.06";Danau Teluk;JB03;Manager;Ibu Cahaya Candramaya Bulan;1955-04-13;67;4115000.0
+PGW074;Aliesha Calya;1993-02-08;29;Wanita;"15.71.03.1008";Rajawali;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Calya Aliesha Calya;1964-10-12;57;3310000.0
+PGW075;Cempaka Anindita;1993-02-02;29;Wanita;"15.71.06.1002";Tanjung Raden;"15.71.06";Danau Teluk;JB04;General Manager;Ibu Ayudisha Cempaka Anindita;1967-08-29;55;2860000.0
+PGW075;Cempaka Anindita;1993-02-02;29;Wanita;"15.71.06.1002";Tanjung Raden;"15.71.06";Danau Teluk;JB04;Staff;Ibu Ayudisha Cempaka Anindita;1967-08-29;55;2860000.0
+PGW076;Arum Araminta;1992-12-12;29;Wanita;"15.71.03.1002";Kasang Jaya;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Candramaya Arum Araminta;1960-03-06;62;1.0155E7
+PGW077;Eka Agung;1992-11-18;29;Pria;"15.71.02.1003";Tambak Sari;"15.71.02";Jambi Selatan;JB01;Staff;Ibu Barsha Eka Agung;1965-08-25;57;3655000.0
+PGW078;Prayoga Budi;1992-09-27;29;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB01;Staff;Ibu Anggun Prayoga Budi;1965-11-05;56;1.831E7
+PGW079;Arum Calya;1992-07-22;30;Wanita;"15.71.03.1002";Kasang Jaya;"15.71.03";Jambi Timur;JB03;Manager;Ibu Ayudisha Arum Calya;1954-02-24;68;3.282E7
+PGW080;Ardelle Calya;1992-06-30;30;Wanita;"15.71.02.1004";Thehok;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Cempaka Ardelle Calya;1955-12-12;66;4155000.0
+PGW081;Aliesha Araminta;1992-06-19;30;Wanita;"15.71.03.1008";Rajawali;"15.71.03";Jambi Timur;JB01;Staff;Ibu Ayudisha Aliesha Araminta;1965-05-20;57;2565000.0
+PGW082;Anggun Abila;1992-06-15;30;Wanita;"15.71.01.1004";Telanaipura;"15.71.01";Telanaipura;JB03;Manager;Ibu Athifa Anggun Abila;1954-03-09;68;1.056E7
+PGW083;Prayoga David;1992-04-21;30;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB01;Staff;Ibu Ashalina Prayoga David;1961-12-03;60;9030000.0
+PGW084;Rangga Rejana;1992-04-18;30;Pria;"15.71.03.1008";Rajawali;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Barsha Rangga Rejana;1965-04-04;57;6430000.0
+PGW084;Rangga Rejana;1992-04-18;30;Pria;"15.71.03.1008";Rajawali;"15.71.03";Jambi Timur;JB04;Staff;Ibu Barsha Rangga Rejana;1965-04-04;57;6430000.0
+PGW085;Cempaka Anggun;1992-03-26;30;Wanita;"15.71.06.1002";Tanjung Raden;"15.71.06";Danau Teluk;JB02;Senior Staff;Ibu Carissa Cempaka Anggun;1953-10-21;68;6560000.0
+PGW086;Basagita Candramaya;1992-03-12;30;Wanita;"15.71.04.1001";Beringin;"15.71.04";Pasar Jambi;JB02;Senior Staff;Ibu Ashalina Basagita Candramaya;1952-09-08;70;6590000.0
+PGW087;Mulyono Gusti;1992-03-11;30;Pria;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Belvina Mulyono Gusti;1963-08-06;59;2.4255E7
+PGW088;Antakawulan Ayudisha;1992-02-16;30;Wanita;"15.71.02.1005";Wijaya Pura;"15.71.02";Jambi Selatan;JB01;Staff;Ibu Ayudisha Antakawulan Ayudisha;1956-02-29;66;7010000.0
+PGW089;Pangestu Bakti;1991-12-29;30;Pria;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Asri Pangestu Bakti;1966-03-12;56;1.466E7
+PGW089;Pangestu Bakti;1991-12-29;30;Pria;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB04;Staff;Ibu Asri Pangestu Bakti;1966-03-12;56;1.466E7
+PGW090;Cassandra Candramaya;1991-10-18;30;Wanita;"15.71.05.1006";Tanjung Johor;"15.71.05";Pelayangan;JB04;General Manager;Ibu Candramaya Cassandra Candramaya;1959-08-14;63;1.636E7
+PGW090;Cassandra Candramaya;1991-10-18;30;Wanita;"15.71.05.1006";Tanjung Johor;"15.71.05";Pelayangan;JB04;Staff;Ibu Candramaya Cassandra Candramaya;1959-08-14;63;1.636E7
+PGW091;Agung Prayoga;1991-10-04;30;Pria;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB04;General Manager;Ibu Carissa Agung Prayoga;1965-09-22;56;5030000.0
+PGW091;Agung Prayoga;1991-10-04;30;Pria;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB04;Staff;Ibu Carissa Agung Prayoga;1965-09-22;56;5030000.0
+PGW092;Rejana Aditya;1991-09-21;30;Pria;"15.71.03.1010";Tanjung Pinang;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Athifa Rejana Aditya;1953-03-23;69;2305000.0
+PGW093;Adriani Candramaya;1991-09-18;31;Wanita;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB01;Staff;Ibu Ayuningtias Adriani Candramaya;1967-02-28;55;3555000.0
+PGW094;Cempaka Andini;1991-07-10;31;Wanita;"15.71.06.1002";Tanjung Raden;"15.71.06";Danau Teluk;JB03;Manager;Ibu Betari Cempaka Andini;1965-09-09;57;3155000.0
+PGW095;Antakawulan Arum;1991-07-07;31;Wanita;"15.71.02.1005";Wijaya Pura;"15.71.02";Jambi Selatan;JB04;General Manager;Ibu Celia Antakawulan Arum;1955-05-01;67;1.311E7
+PGW095;Antakawulan Arum;1991-07-07;31;Wanita;"15.71.02.1005";Wijaya Pura;"15.71.02";Jambi Selatan;JB04;Staff;Ibu Celia Antakawulan Arum;1955-05-01;67;1.311E7
+PGW096;Pangestu David;1991-07-02;31;Pria;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB03;Manager;Ibu Arabella Pangestu David;1955-07-13;67;6660000.0
+PGW097;Barsha Cahaya;1991-05-03;31;Wanita;"15.71.05.1003";Jelmu;"15.71.05";Pelayangan;JB01;Staff;Ibu Ayudisha Barsha Cahaya;1953-11-03;68;4460000.0
+PGW098;Ashalina Alsava;1991-05-02;31;Wanita;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB01;Staff;Ibu Cassandra Ashalina Alsava;1965-09-30;56;1.5615E7
+PGW099;Ardelle Anindita;1991-04-21;31;Wanita;"15.71.02.1004";Thehok;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Bulan Ardelle Anindita;1956-06-23;66;5305000.0
+PGW100;Rangga Widada;1991-03-03;31;Pria;"15.71.03.1008";Rajawali;"15.71.03";Jambi Timur;JB03;Manager;Ibu Aruna Rangga Widada;1967-08-12;55;1.6315E7
+PGW101;Hadyan Tulus;1991-01-25;31;Pria;"15.71.03.1002";Kasang Jaya;"15.71.03";Jambi Timur;JB03;Manager;Ibu Cassandra Hadyan Tulus;1962-04-17;60;4525000.0
+PGW102;Alsava Bintang;1990-12-04;31;Wanita;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB01;Staff;Ibu Ayudia Alsava Bintang;1964-03-20;58;7310000.0
+PGW103;Perkasa Rejana;1990-12-03;31;Pria;"15.71.03.1007";Tanjung Sari;"15.71.03";Jambi Timur;JB01;Staff;Ibu Arum Perkasa Rejana;1956-06-13;66;8305000.0
+PGW104;Rejana Pangestu;1990-11-15;31;Pria;"15.71.03.1010";Tanjung Pinang;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Andini Rejana Pangestu;1953-06-18;69;4160000.0
+PGW105;Mulyono Aditya;1990-09-29;31;Pria;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Anggun Mulyono Aditya;1954-01-20;68;1.709E7
+PGW106;Rejana Tulus;1990-09-28;31;Pria;"15.71.03.1010";Tanjung Pinang;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Abila Rejana Tulus;1956-06-28;66;1.756E7
+PGW107;Jamal Jamal;1990-09-28;31;Pria;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Basagita Jamal Jamal;1960-08-17;62;2.5095E7
+PGW108;Anindita Barsha;1990-07-18;32;Wanita;"15.71.01.1010";Penyengat Rendah;"15.71.01";Telanaipura;JB04;General Manager;Ibu Antakawulan Anindita Barsha;1962-04-03;60;1.6075E7
+PGW108;Anindita Barsha;1990-07-18;32;Wanita;"15.71.01.1010";Penyengat Rendah;"15.71.01";Telanaipura;JB04;Staff;Ibu Antakawulan Anindita Barsha;1962-04-03;60;1.6075E7
+PGW109;Rejana Tulus;1990-03-04;32;Pria;"15.71.03.1010";Tanjung Pinang;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Arum Rejana Tulus;1957-10-29;64;8110000.0
+PGW110;Araminta Basagita;1990-03-01;32;Wanita;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB04;General Manager;Ibu Barsha Araminta Basagita;1957-11-08;64;3.412E7
+PGW110;Araminta Basagita;1990-03-01;32;Wanita;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB04;Staff;Ibu Barsha Araminta Basagita;1957-11-08;64;3.412E7
+PGW111;Abila Asri;1990-02-22;32;Wanita;"15.71.01.1002";Buluran Kenali;"15.71.01";Telanaipura;JB02;Senior Staff;Ibu Anggun Abila Asri;1960-12-06;61;5465000.0
+PGW112;Basagita Anjani;1989-12-22;32;Wanita;"15.71.04.1001";Beringin;"15.71.04";Pasar Jambi;JB03;Manager;Ibu Barsha Basagita Anjani;1962-09-27;59;1.5615E7
+PGW113;Widada Bakti;1989-12-07;32;Pria;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB04;General Manager;Ibu Bulan Widada Bakti;1955-10-03;66;1.8465E7
+PGW113;Widada Bakti;1989-12-07;32;Pria;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB04;Staff;Ibu Bulan Widada Bakti;1955-10-03;66;1.8465E7
+PGW114;Candramaya Cahaya;1989-12-03;32;Wanita;"15.71.06.1003";Olak Kemang;"15.71.06";Danau Teluk;JB01;Staff;Ibu Cassandra Candramaya Cahaya;1967-04-10;55;1.171E7
+PGW115;Calya Cempaka;1989-09-12;33;Wanita;"15.71.05.1004";Tengah;"15.71.05";Pelayangan;JB04;General Manager;Ibu Aruna Calya Cempaka;1953-12-01;68;3.657E7
+PGW115;Calya Cempaka;1989-09-12;33;Wanita;"15.71.05.1004";Tengah;"15.71.05";Pelayangan;JB04;Staff;Ibu Aruna Calya Cempaka;1953-12-01;68;3.657E7
+PGW116;Anjani Celia;1989-05-03;33;Wanita;"15.71.01.1011";Pematang Sulur;"15.71.01";Telanaipura;JB02;Senior Staff;Ibu Andini Anjani Celia;1956-01-07;66;1.0165E7
+PGW117;Danudara Pangestu;1989-04-22;33;Pria;"15.71.02.1002";Pasir Putih;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Ayudia Danudara Pangestu;1952-04-13;70;1.755E7
+PGW118;Prayoga Satya;1988-11-30;33;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB01;Staff;Ibu Belvina Prayoga Satya;1958-03-05;64;1.5815E7
+PGW119;Mulyono Pangestu;1988-11-10;33;Pria;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Aruna Mulyono Pangestu;1954-07-20;68;3.237E7
+PGW120;Celia Cassandra;1988-08-28;34;Wanita;"15.71.06.1004";Tanjung Pasir;"15.71.06";Danau Teluk;JB04;General Manager;Ibu Ayudisha Celia Cassandra;1964-08-19;58;6315000.0
+PGW120;Celia Cassandra;1988-08-28;34;Wanita;"15.71.06.1004";Tanjung Pasir;"15.71.06";Danau Teluk;JB04;Staff;Ibu Ayudisha Celia Cassandra;1964-08-19;58;6315000.0
+PGW121;Asri Aliesha;1988-08-05;34;Wanita;"15.71.03.1007";Tanjung Sari;"15.71.03";Jambi Timur;JB01;Staff;Ibu Ayudia Asri Aliesha;1963-12-04;58;1.9535E7
+PGW122;Betari Anindita;1988-05-29;34;Wanita;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB02;Senior Staff;Ibu Barsha Betari Anindita;1953-02-27;69;4565000.0
+PGW123;Athifa Cassandra;1988-05-29;34;Wanita;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Carissa Athifa Cassandra;1965-11-01;56;7615000.0
+PGW123;Athifa Cassandra;1988-05-29;34;Wanita;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB04;Staff;Ibu Carissa Athifa Cassandra;1965-11-01;56;7615000.0
+PGW124;Tulus Dimas;1988-05-06;34;Pria;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB02;Senior Staff;Ibu Alsava Tulus Dimas;1959-03-12;63;1.5295E7
+PGW125;Perkasa Prayoga;1988-04-14;34;Pria;"15.71.03.1007";Tanjung Sari;"15.71.03";Jambi Timur;JB03;Manager;Ibu Aliesha Perkasa Prayoga;1990-04-14;32;9815000.0
+PGW126;Prayoga Budi;1988-04-09;34;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB01;Staff;Ibu Belvina Prayoga Budi;1962-07-30;60;6305000.0
+PGW127;Tulus Hadyan;1988-04-02;34;Pria;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB04;General Manager;Ibu Belvina Tulus Hadyan;1957-03-08;65;1.6115E7
+PGW127;Tulus Hadyan;1988-04-02;34;Pria;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB04;Staff;Ibu Belvina Tulus Hadyan;1957-03-08;65;1.6115E7
+PGW128;Anjani Ayuningtias;1988-03-18;34;Wanita;"15.71.01.1011";Pematang Sulur;"15.71.01";Telanaipura;JB03;Manager;Ibu Binar Anjani Ayuningtias;1953-11-26;68;4815000.0
+PGW129;Ashalina Calya;1988-02-03;34;Wanita;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Barsha Ashalina Calya;1966-12-19;55;8905000.0
+PGW130;Calya Arabella;1988-01-15;34;Wanita;"15.71.05.1004";Tengah;"15.71.05";Pelayangan;JB04;General Manager;Ibu Ayuningtias Calya Arabella;1957-10-31;64;6165000.0
+PGW130;Calya Arabella;1988-01-15;34;Wanita;"15.71.05.1004";Tengah;"15.71.05";Pelayangan;JB04;Staff;Ibu Ayuningtias Calya Arabella;1957-10-31;64;6165000.0
+PGW131;Perkasa Bakti;1988-01-11;34;Pria;"15.71.03.1007";Tanjung Sari;"15.71.03";Jambi Timur;JB03;Manager;Ibu Abila Perkasa Bakti;1957-03-01;65;2610000.0
+PGW132;Tulus Prayoga;1987-11-12;34;Pria;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB04;General Manager;Ibu Bulan Tulus Prayoga;1965-10-04;56;6555000.0
+PGW132;Tulus Prayoga;1987-11-12;34;Pria;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB04;Staff;Ibu Bulan Tulus Prayoga;1965-10-04;56;6555000.0
+PGW133;Aditya David;1987-11-01;34;Pria;"15.71.01.1002";Buluran Kenali;"15.71.01";Telanaipura;JB04;General Manager;Ibu Barsha Aditya David;1965-05-14;57;3.262E7
+PGW133;Aditya David;1987-11-01;34;Pria;"15.71.01.1002";Buluran Kenali;"15.71.01";Telanaipura;JB04;Staff;Ibu Barsha Aditya David;1965-05-14;57;3.262E7
+PGW134;Carissa Ayudisha;1987-09-17;35;Wanita;"15.71.05.1005";Tahtul Yaman;"15.71.05";Pelayangan;JB03;Manager;Ibu Antakawulan Carissa Ayudisha;1967-03-15;55;4665000.0
+PGW135;Ashalina Ayudia;1987-09-03;35;Wanita;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Anindita Ashalina Ayudia;1958-12-11;63;6165000.0
+PGW136;Kaisar Satya;1987-08-27;35;Pria;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB03;Manager;Ibu Ayuningtias Kaisar Satya;1952-10-15;69;1.9815E7
+PGW137;Jamal Tulus;1987-07-28;35;Pria;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Barsha Jamal Tulus;1966-08-24;56;7960000.0
+PGW138;Arum Bintang;1987-06-28;35;Wanita;"15.71.03.1002";Kasang Jaya;"15.71.03";Jambi Timur;JB03;Manager;Ibu Basagita Arum Bintang;1963-12-29;58;1655000.0
+PGW139;Kaisar Rangga;1987-05-12;35;Pria;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB03;Manager;Ibu Carissa Kaisar Rangga;1957-10-15;64;1.0815E7
+PGW140;Mulyono Widada;1987-03-30;35;Pria;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Anggun Mulyono Widada;1963-11-02;58;3105000.0
+PGW140;Mulyono Widada;1987-03-30;35;Pria;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB04;Staff;Ibu Anggun Mulyono Widada;1963-11-02;58;3105000.0
+PGW141;Ayudia Abila;1987-03-03;35;Wanita;"15.71.03.1005";Sulanjana;"15.71.03";Jambi Timur;JB03;Manager;Ibu Bintang Ayudia Abila;1963-08-30;59;1.2095E7
+PGW142;Widada Prima;1987-02-16;35;Pria;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB02;Senior Staff;Ibu Aruna Widada Prima;1957-03-04;65;3505000.0
+PGW143;Satya Gusti;1987-02-14;35;Pria;"15.71.04.1001";Beringin;"15.71.04";Pasar Jambi;JB03;Manager;Ibu Arabella Satya Gusti;1964-01-19;58;2455000.0
+PGW144;Widada Kaisar;1987-02-07;35;Pria;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB04;General Manager;Ibu Athifa Widada Kaisar;1966-04-04;56;5165000.0
+PGW144;Widada Kaisar;1987-02-07;35;Pria;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB04;Staff;Ibu Athifa Widada Kaisar;1966-04-04;56;5165000.0
+PGW145;Ayuningtias Celia;1986-12-29;35;Wanita;"15.71.03.1010";Tanjung Pinang;"15.71.03";Jambi Timur;JB03;Manager;Ibu Abila Ayuningtias Celia;1955-11-07;66;1.306E7
+PGW146;Hadyan Agung;1986-12-14;35;Pria;"15.71.03.1002";Kasang Jaya;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Cempaka Hadyan Agung;1962-01-26;60;1.0715E7
+PGW147;Satya Tulus;1986-11-19;35;Pria;"15.71.04.1001";Beringin;"15.71.04";Pasar Jambi;JB04;General Manager;Ibu Celia Satya Tulus;1966-03-29;56;1.651E7
+PGW147;Satya Tulus;1986-11-19;35;Pria;"15.71.04.1001";Beringin;"15.71.04";Pasar Jambi;JB04;Staff;Ibu Celia Satya Tulus;1966-03-29;56;1.651E7
+PGW148;Prayoga Mulyono;1986-10-31;35;Pria;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB03;Manager;Ibu Arabella Prayoga Mulyono;1960-03-07;62;6055000.0
+PGW149;Pangestu Rangga;1986-10-03;35;Pria;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Celia Pangestu Rangga;1958-04-16;64;3915000.0
+PGW150;Jamal Agung;1986-09-11;36;Pria;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Ardelle Jamal Agung;1959-11-18;62;9305000.0
+PGW151;Pangestu Prayoga;1986-09-10;36;Pria;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Barsha Pangestu Prayoga;1967-07-06;55;5305000.0
+PGW152;Gusti Tulus;1986-08-27;36;Pria;"15.71.02.1004";Thehok;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Ardelle Gusti Tulus;1964-04-10;58;1.5835E7
+PGW153;Aruna Anindita;1986-05-19;36;Wanita;"15.71.02.1002";Pasir Putih;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Athifa Aruna Anindita;1955-04-07;67;5310000.0
+PGW154;Eka Eka;1986-05-14;36;Pria;"15.71.02.1003";Tambak Sari;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Anjani Eka Eka;1953-11-26;68;1.656E7
+PGW155;Anindita Bintang;1986-04-12;36;Wanita;"15.71.01.1010";Penyengat Rendah;"15.71.01";Telanaipura;JB01;Staff;Ibu Ashalina Anindita Bintang;1956-11-19;65;2.4365E7
+PGW156;Aruna Celia;1986-01-08;36;Wanita;"15.71.02.1002";Pasir Putih;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Aruna Aruna Celia;1967-12-08;54;5465000.0
+PGW157;Widada Budi;1985-12-29;36;Pria;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB02;Senior Staff;Ibu Bulan Widada Budi;1987-12-29;34;1.311E7
+PGW158;Mulyono Widada;1985-12-18;36;Pria;"15.71.03.1003";Talang Banjar;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Calya Mulyono Widada;1961-10-26;60;9105000.0
+PGW159;Candramaya Barsha;1985-11-12;36;Wanita;"15.71.06.1003";Olak Kemang;"15.71.06";Danau Teluk;JB01;Staff;Ibu Cahaya Candramaya Barsha;1958-11-01;63;6810000.0
+PGW160;Agung Budi;1985-10-10;36;Pria;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB03;Manager;Ibu Basagita Agung Budi;1965-04-22;57;1.5265E7
+PGW161;Pangestu Rejana;1985-09-27;36;Pria;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Aliesha Pangestu Rejana;1960-07-31;62;7455000.0
+PGW161;Pangestu Rejana;1985-09-27;36;Pria;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB04;Staff;Ibu Aliesha Pangestu Rejana;1960-07-31;62;7455000.0
+PGW162;Widada Dimas;1985-07-06;37;Pria;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB02;Senior Staff;Ibu Bintang Widada Dimas;1965-06-01;57;7110000.0
+PGW163;Ihsan Jamal;1985-05-06;37;Pria;"15.71.02.1005";Wijaya Pura;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Carissa Ihsan Jamal;1965-07-06;57;1.6815E7
+PGW164;Ihsan Widada;1985-04-14;37;Pria;"15.71.02.1005";Wijaya Pura;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Adriani Ihsan Widada;1960-07-05;62;3660000.0
+PGW165;Perkasa Budi;1985-02-21;37;Pria;"15.71.03.1007";Tanjung Sari;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Betari Perkasa Budi;1956-07-04;66;1.707E7
+PGW165;Perkasa Budi;1985-02-21;37;Pria;"15.71.03.1007";Tanjung Sari;"15.71.03";Jambi Timur;JB04;Staff;Ibu Betari Perkasa Budi;1956-07-04;66;1.707E7
+PGW166;Hadyan Aditya;1985-01-30;37;Pria;"15.71.03.1002";Kasang Jaya;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Antakawulan Hadyan Aditya;1964-08-28;58;3.257E7
+PGW167;Andini Arabella;1985-01-26;37;Wanita;"15.71.01.1003";Teluk Kenali;"15.71.01";Telanaipura;JB04;General Manager;Ibu Adriani Andini Arabella;1957-07-01;65;1.8465E7
+PGW167;Andini Arabella;1985-01-26;37;Wanita;"15.71.01.1003";Teluk Kenali;"15.71.01";Telanaipura;JB04;Staff;Ibu Adriani Andini Arabella;1957-07-01;65;1.8465E7
+PGW168;Agung Budi;1984-12-19;37;Pria;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB02;Senior Staff;Ibu Carissa Agung Budi;1958-09-07;64;3.354E7
+PGW169;Satya Gusti;1984-10-23;37;Pria;"15.71.04.1001";Beringin;"15.71.04";Pasar Jambi;JB01;Staff;Ibu Asri Satya Gusti;1952-01-27;70;3.412E7
+PGW170;Andini Cempaka;1984-10-15;37;Wanita;"15.71.01.1003";Teluk Kenali;"15.71.01";Telanaipura;JB03;Manager;Ibu Arabella Andini Cempaka;1953-06-13;69;2.5115E7
+PGW171;Arabella Aliesha;1984-10-10;37;Wanita;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Cempaka Arabella Aliesha;1954-02-17;68;1.5235E7
+PGW171;Arabella Aliesha;1984-10-10;37;Wanita;"15.71.03.1001";Sijenjang;"15.71.03";Jambi Timur;JB04;Staff;Ibu Cempaka Arabella Aliesha;1954-02-17;68;1.5235E7
+PGW172;Ayudisha Anjani;1984-09-18;38;Wanita;"15.71.02.1003";Tambak Sari;"15.71.02";Jambi Selatan;JB04;General Manager;Ibu Athifa Ayudisha Anjani;1953-07-12;69;7025000.0
+PGW172;Ayudisha Anjani;1984-09-18;38;Wanita;"15.71.02.1003";Tambak Sari;"15.71.02";Jambi Selatan;JB04;Staff;Ibu Athifa Ayudisha Anjani;1953-07-12;69;7025000.0
+PGW173;Aliesha Ayudia;1984-08-12;38;Wanita;"15.71.03.1008";Rajawali;"15.71.03";Jambi Timur;JB01;Staff;Ibu Binar Aliesha Ayudia;1961-12-20;60;3.506E7
+PGW174;Bulan Aliesha;1984-08-10;38;Wanita;"15.71.05.1002";Mudung Laut;"15.71.05";Pelayangan;JB02;Senior Staff;Ibu Adriani Bulan Aliesha;1958-08-24;64;1.6575E7
+PGW175;Aliesha Aliesha;1984-08-08;38;Wanita;"15.71.03.1008";Rajawali;"15.71.03";Jambi Timur;JB01;Staff;Ibu Barsha Aliesha Aliesha;1957-08-17;65;2250000.0
+PGW176;Tulus Perkasa;1984-07-08;38;Pria;"15.71.04.1002";Orang Kayo Hitam;"15.71.04";Pasar Jambi;JB03;Manager;Ibu Celia Tulus Perkasa;1957-02-11;65;3.447E7
+PGW177;Calya Adriani;1984-05-24;38;Wanita;"15.71.05.1004";Tengah;"15.71.05";Pelayangan;JB03;Manager;Ibu Arum Calya Adriani;1960-04-26;62;2310000.0
+PGW178;Widada Satya;1984-04-30;38;Pria;"15.71.04.1003";Pasar Jambi;"15.71.04";Pasar Jambi;JB03;Manager;Ibu Candramaya Widada Satya;1956-05-12;66;3.532E7
+PGW179;Agung David;1984-04-24;38;Pria;"15.71.01.1001";Simpang IV Sipin;"15.71.01";Telanaipura;JB01;Staff;Ibu Andini Agung David;1960-02-20;62;1.781E7
+PGW180;Eka Widada;1984-03-05;38;Pria;"15.71.02.1003";Tambak Sari;"15.71.02";Jambi Selatan;JB01;Staff;Ibu Araminta Eka Widada;1963-06-22;59;2860000.0
+PGW181;Perkasa Mulyono;1984-01-01;38;Pria;"15.71.03.1007";Tanjung Sari;"15.71.03";Jambi Timur;JB01;Staff;Ibu Cempaka Perkasa Mulyono;1959-03-12;63;1.5565E7
+PGW182;Aruna Binar;1983-10-17;38;Wanita;"15.71.02.1002";Pasir Putih;"15.71.02";Jambi Selatan;JB01;Staff;Ibu Ayuningtias Aruna Binar;1959-10-12;62;1.6535E7
+PGW183;Jamal Rangga;1983-09-11;39;Pria;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Celia Jamal Rangga;1954-10-29;67;2.5965E7
+PGW184;Satya Budi;1983-08-29;39;Pria;"15.71.04.1001";Beringin;"15.71.04";Pasar Jambi;JB02;Senior Staff;Ibu Aruna Satya Budi;1952-02-23;70;2.5115E7
+PGW185;Aruna Binar;1983-08-04;39;Wanita;"15.71.02.1002";Pasir Putih;"15.71.02";Jambi Selatan;JB01;Staff;Ibu Ayudia Aruna Binar;1960-09-17;62;3845000.0
+PGW186;Rejana Kaisar;1983-07-27;39;Pria;"15.71.03.1010";Tanjung Pinang;"15.71.03";Jambi Timur;JB04;General Manager;Ibu Cassandra Rejana Kaisar;1965-01-13;57;1.071E7
+PGW186;Rejana Kaisar;1983-07-27;39;Pria;"15.71.03.1010";Tanjung Pinang;"15.71.03";Jambi Timur;JB04;Staff;Ibu Cassandra Rejana Kaisar;1965-01-13;57;1.071E7
+PGW187;Jamal Mulyono;1983-05-24;39;Pria;"15.71.02.1006";Pakuan Baru;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Cempaka Jamal Mulyono;1956-08-17;66;3455000.0
+PGW188;Anindita Aruna;1983-03-13;39;Wanita;"15.71.01.1010";Penyengat Rendah;"15.71.01";Telanaipura;JB03;Manager;Ibu Ayudisha Anindita Aruna;1953-06-22;69;2565000.0
+PGW189;Ashalina Ayuningtias;1983-03-11;39;Wanita;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB02;Senior Staff;Ibu Celia Ashalina Ayuningtias;1962-09-01;60;1.2165E7
+PGW190;Calya Ardelle;1983-03-02;39;Wanita;"15.71.05.1004";Tengah;"15.71.05";Pelayangan;JB03;Manager;Ibu Ayudisha Calya Ardelle;1954-05-24;68;1.211E7
+PGW191;Danudara David;1983-02-10;39;Pria;"15.71.02.1002";Pasir Putih;"15.71.02";Jambi Selatan;JB01;Staff;Ibu Bintang Danudara David;1954-02-24;68;7160000.0
+PGW192;Cahaya Binar;1982-12-10;39;Wanita;"15.71.06.1001";Pasir Panjang;"15.71.06";Danau Teluk;JB01;Staff;Ibu Ardelle Cahaya Binar;1961-04-27;61;1.2165E7
+PGW193;Bulan Araminta;1982-10-13;39;Wanita;"15.71.05.1002";Mudung Laut;"15.71.05";Pelayangan;JB01;Staff;Ibu Ashalina Bulan Araminta;1957-09-18;65;1585000.0
+PGW194;Ihsan Rangga;1982-09-18;40;Pria;"15.71.02.1005";Wijaya Pura;"15.71.02";Jambi Selatan;JB02;Senior Staff;Ibu Basagita Ihsan Rangga;1957-03-13;65;1.905E7
+PGW195;Arum Ayuningtias;1982-07-12;40;Wanita;"15.71.03.1002";Kasang Jaya;"15.71.03";Jambi Timur;JB03;Manager;Ibu Abila Arum Ayuningtias;1954-10-06;67;1.931E7
+PGW196;Candramaya Ayuningtias;1982-06-28;40;Wanita;"15.71.06.1003";Olak Kemang;"15.71.06";Danau Teluk;JB03;Manager;Ibu Belvina Candramaya Ayuningtias;1954-03-09;68;3705000.0
+PGW197;Eka Kaisar;1982-05-30;40;Pria;"15.71.02.1003";Tambak Sari;"15.71.02";Jambi Selatan;JB03;Manager;Ibu Belvina Eka Kaisar;1958-02-19;64;1.461E7
+PGW198;Prima Gusti;1982-04-21;40;Pria;"15.71.03.1005";Sulanjana;"15.71.03";Jambi Timur;JB01;Staff;Ibu Celia Prima Gusti;1958-04-11;64;3505000.0
+PGW199;Ashalina Binar;1982-03-10;40;Wanita;"15.71.03.1004";Budiman;"15.71.03";Jambi Timur;JB03;Manager;Ibu Andini Ashalina Binar;1955-02-23;67;3.517E7
+PGW200;Alsava Bulan;1982-03-09;40;Wanita;"15.71.03.1006";Kasang;"15.71.03";Jambi Timur;JB01;Staff;Ibu Araminta Alsava Bulan;1967-10-15;54;4615000.0

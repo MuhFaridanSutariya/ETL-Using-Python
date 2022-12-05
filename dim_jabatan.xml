@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!DOCTYPE select_from_temp_jabatan [
+  <!ELEMENT select_from_temp_jabatan (DATA_RECORD*)>
+  <!ELEMENT DATA_RECORD (id?,kode_jabatan?,nama_jabatan?)+>
+  <!ELEMENT id (#PCDATA)>
+  <!ELEMENT kode_jabatan (#PCDATA)>
+  <!ELEMENT nama_jabatan (#PCDATA)>
+]>
+<select_from_temp_jabatan>
+  <DATA_RECORD>
+    <id>1</id>
+    <kode_jabatan>JB01</kode_jabatan>
+    <nama_jabatan>Staff</nama_jabatan>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>2</id>
+    <kode_jabatan>JB02</kode_jabatan>
+    <nama_jabatan>Senior Staff</nama_jabatan>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>3</id>
+    <kode_jabatan>JB03</kode_jabatan>
+    <nama_jabatan>Manager</nama_jabatan>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>4</id>
+    <kode_jabatan>JB04</kode_jabatan>
+    <nama_jabatan>General Manager</nama_jabatan>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <id>5</id>
+    <kode_jabatan>JB04</kode_jabatan>
+    <nama_jabatan>Staff</nama_jabatan>
+  </DATA_RECORD>
+</select_from_temp_jabatan>
